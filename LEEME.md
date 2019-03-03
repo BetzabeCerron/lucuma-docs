@@ -19,3 +19,7 @@ Creditos:
     * Rosa Maria Palacios
     * Barata
 
+Este archivo fue editado por:
+------------------------------
+    * Yesenia Quispe
+
